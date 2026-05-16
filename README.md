@@ -1,6 +1,6 @@
 # Nestlé (nestle)
 
-The world's largest food and beverage company by revenue, operating in nearly every country with a vast portfolio of brands. Produces products spanning coffee, water, pet food, baby food, and confectionery including Nescafé, KitKat, Purina, and Gerber.
+Nestlé S.A. is the world's largest food and beverage company by revenue, headquartered in Vevey, Switzerland. Its product portfolio spans coffee (Nescafé, Nespresso), water, pet food (Purina), baby and infant nutrition (Gerber, Cerelac), confectionery (KitKat), dairy, and health science. No public developer portal or external API offering has been identified for Nestlé; integrations with retailers and partners are handled through private B2B systems rather than a self-serve developer program.
 
 **URL:** [https://www.nestle.com/](https://www.nestle.com/)
 
@@ -8,10 +8,15 @@ The world's largest food and beverage company by revenue, operating in nearly ev
 
 ## Tags:
 
- - Food & Beverage, Consumer Products, Pet Food
+ - Food & Beverage, Consumer Products, Pet Food, Fortune Global 500, Consumer Packaged Goods
+
+## Common Properties
+
+- **Website:** https://www.nestle.com/
+- **Brands:** https://www.nestle.com/brands
+- **AboutUs:** https://www.nestle.com/aboutus
 
 ## Timestamps
 
 - **Created:** 2026-05-05
-- **Modified:** 2026-05-05
-
+- **Modified:** 2026-05-16
