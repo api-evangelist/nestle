@@ -23,6 +23,8 @@ modified: '2026-05-16'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/nestle-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/nestle
   - type: LinkedIn
@@ -33,6 +35,8 @@ common:
     url: https://www.nestle.com/brands
   - type: AboutUs
     url: https://www.nestle.com/aboutus
+  - url: https://www.nestle.com/news-rss.xml
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
