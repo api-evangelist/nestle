@@ -22,6 +22,12 @@ accessModel:
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/nestle.png
 tags:
+  - Food and Beverage
+  - Consumer Products
+  - Pet Food
+  - Fortune Global 500
+  - Consumer Packaged Goods
+tags_raw:
   - Food & Beverage
   - Consumer Products
   - Pet Food
