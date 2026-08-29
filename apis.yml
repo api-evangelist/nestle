@@ -9,6 +9,17 @@ description: >-
   Nestlé; integrations with retailers and partners are handled through
   private B2B systems rather than a self-serve developer program.
 type: Index
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
