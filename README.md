@@ -1,4 +1,4 @@
-# Nestlé (nestle)
+# Nestlé
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,21 +66,79 @@
 
 Nestlé S.A. is the world's largest food and beverage company by revenue, headquartered in Vevey, Switzerland. Its product portfolio spans coffee (Nescafé, Nespresso), water, pet food (Purina), baby and infant nutrition (Gerber, Cerelac), confectionery (KitKat), dairy, and health science. No public developer portal or external API offering has been identified for Nestlé; integrations with retailers and partners are handled through private B2B systems rather than a self-serve developer program.
 
-**URL:** [https://www.nestle.com/](https://www.nestle.com/)
+**Areas:** Food and Beverage · Consumer Products · Pet Food · Fortune Global 500 · Consumer Packaged Goods
 
-**Run:** [Capabilities Using Naftiko](https://github.com/naftiko/fleet?utm_source=api-evangelist&utm_medium=readme&utm_campaign=nestle-api-evangelist&utm_content=repo)
+## Nestlé on APIs.io
 
-## Tags:
+Everything profiled for Nestlé is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/nestle/](https://apis.io/providers/nestle/)** — or go straight to one of the APIs or properties below.
 
- - Food & Beverage, Consumer Products, Pet Food, Fortune Global 500, Consumer Packaged Goods
+### Published properties
 
-## Common Properties
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-- **Website:** https://www.nestle.com/
-- **Brands:** https://www.nestle.com/brands
-- **AboutUs:** https://www.nestle.com/aboutus
+#### Security (1)
 
-## Timestamps
+Authentication, trust centre, and vulnerability disclosure.
 
-- **Created:** 2026-05-05
-- **Modified:** 2026-05-16
+- [Nestle Domain Security](https://apis.io/security/nestle/nestle-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.nestle.com/)
+- [Blog](https://www.nestle.com/news-rss.xml)
+- [GitHub](https://github.com/nestle)
+
+## API Evangelist rating
+
+**Kin Score 4.3** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/nestle/](https://apis.io/providers/nestle/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Nestlé: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/nestle/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
